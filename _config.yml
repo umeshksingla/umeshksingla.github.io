@@ -7,17 +7,17 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Umesh Singla / Site Title"
+title                    : "umesh k singla"
 title_separator          : "-"
 name                     : &name "Umesh Singla"
 description              : &description "personal description"
-url                      : https://umeshksingla.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : http://127.0.0.1:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "umeshksingla/umeshksingla.github.io"
+repository               : "umeshksingla.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
-future                   : true
+future                   : false
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Umesh Singla"
   avatar           : "profile.png"
-  bio              : "MS, UC San Diego"
-  location         : "Location"
+  bio              : "MS Student (Computer Science)"
+  location         : "UC San Diego"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user="
+  googlescholar    : "https://scholar.google.com/citations?user=MXHzzZwAAAAJ&hl=en"
   email            : "umeshksingla@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : umeshksingla
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "umeshksingla"
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -176,16 +176,16 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
@@ -199,7 +199,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: false
       related: false
   # _pages
@@ -217,7 +217,7 @@ defaults:
       layout: single
       author_profile: true
       share: false
-      comments: true
+      comments: false
   # _publications
   - scope:
       path: ""
@@ -225,8 +225,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _portfolio
   - scope:
       path: ""
@@ -234,8 +234,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: true
-      comment: true
+      share: false
+      comment: false
   # _talks
   - scope:
       path: ""
@@ -243,7 +243,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: true
+      share: false
 
 # Sass/SCSS
 sass:
