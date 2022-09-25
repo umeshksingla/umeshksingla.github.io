@@ -12,14 +12,14 @@ main:
   - title: "Book Shelf"
     url: /bookshelf/
 
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
   - title: "Blog"
     url: /blog/
 
-#  - title: "CV"
-#    url: /cv/
+  - title: "Previous"
+    url: /past/
+
+  - title: "CV"
+    url: /cv/
     
 #  - title: "Guide"
 #    url: /markdown/

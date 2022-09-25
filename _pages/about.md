@@ -1,46 +1,67 @@
 ---
 permalink: /
-title: "About"
-excerpt: "UNDER DEVELOPMENT - 9/25"
+title: "UNDER DEVELOPMENT - 9/25"
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an MS student in Computer Science at UC San Diego. I am interested in engineering systems - software, distributed, or machine learning. I am particularly interested in learning about site reliability engineering and good software architecture.
+I am a computer science MS  student working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural 
+Computation and Reinforcement Lab at UC San Diego. I study exploration
+and planning in sequential settings in animals and artificial agents. I am interested in 
+interdisciplinary research problems spanning computer 
+science and the natural sciences (particularly ecology, ethology, and earth sciences). 
+I like to think about ways to decipher hidden structure in the natural world.
 
-I also like to read about human behavior and think about ways to decipher structure in the natural world using ML tools in order to build better autonomous systems.
+Before this, I received my BTech in Computer Science from IIIT Hyderabad with a 
+minor in Cognitive Science. As part of undergraduate research program, I worked 
+on analyzing structural and functional MRI scans for any addiction-related alterations. 
+Visit [Past](past) for more.
 
-I like to go to the beach, to the gym, listen to music, or bake in my free time.
+[//]: # (I am looking to work on interdisciplinary problems spanning computer )
 
-[CV](https://www.dropbox.com/s/qpg4qhrx9f52soq/UmeshSingla_academic.pdf?dl=0)
+[//]: # (science and the natural sciences, particularly ecology, ethology, and earth sciences.)
+
+[//]: # (I have previously been a software engineer at Joveo, Inc.)
+
+Aside from research, I like to go to the beach, to the gym, listen to instrumental metal, or 
+bake in my free time. Check out my [Bookshelf](bookshelf.md) to know more.
+
+[//]: # ( ecology soil climate earth)
 
 Research
 --------
 
+My masters thesis studies exploration in sequential decision-making in mice in 
+maze-like environments. We are investigating how animals deviate from optimality
+in such decisions, by analyzing naturalistic behavior data, and fitting and 
+comparing computational models. This involves topics from AI and naturalistic behavior, 
+including reinforcement learning, cognitive science, and behavior modeling and prediction.
+
+
+
+Goal
+----
+My goal is to advance our understanding of animal behavior and leverage it to 
+build better autonomous systems. I like to use a combination of experimental,
+observational and computational approaches to understand a given phenomenon.
+
+
+[//]: # (Engineering)
+
+[//]: # (-----------)
+
+[//]: # (I am interested in engineering systems - software, distributed, or machine learning.)
+
+[//]: # (I am particularly interested in learning about site reliability engineering and )
+
+[//]: # (good software architecture.)
 
 TA
 --
 I am an experienced teaching assistant, having taught 10+ courses at UCSD and IIIT: ranging from introductory Python programming courses to Data Engineering to principles of AI. 
-
-
-Previous Work
--------------
-
-**Marijuana and the hippocampus: A longitudinal study on the effects of marijuana on hippocampal subfield.** [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0278584619305391)  
-Arun Garimella, Sourabh Rajguru\*, Umesh Singla\*, and Vinoo Alluri  
-_Progress in Neuro-Psychopharmacology and Biological Psychiatry_ (2020)
-
-**Replicating impaired resting state functional connectivity in chronic cocaine users.** [[Abstract]](https://www.sciencedirect.com/science/article/abs/pii/S0278584619305391) [[Poster]](https://www.sciencedirect.com/science/article/abs/pii/S0278584619305391)  
-Umesh Singla, Pramod Kaushik, Eduardo A. Garza-Villarreal, and Vinoo Alluri  
-_5th Annual Conference of Cognitive Science (ACCS). IIT Guwahati, India._ (2018)
-
-
-**Implicit sequence learning in auditory domain.** [[Poster]](https://www.sciencedirect.com/science/article/abs/pii/S0278584619305391)  
-_IIIT Hyderabad Undergraduate R&D Showcase._
-
-
 
 
 Google Summer of Code
