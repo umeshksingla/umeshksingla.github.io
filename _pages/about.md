@@ -28,8 +28,14 @@ Aside from research, I like to go to the beach, to the gym, listen to music, or 
 
 Research
 --------
-For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals.
 
+{: style="text-align: justify" }
+<img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
+
+For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals.
+<br/>
+<br/>
+<br/>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
 During my **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the Cognitive Science department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any addiction-related alterations. Work done as part of this program:
