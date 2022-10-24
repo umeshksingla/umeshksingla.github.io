@@ -1,5 +1,5 @@
-### UCSD
-<div style="margin-top: fill">
+**UCSD**
+<div style="margin-top: -1%">
 <span style="float: right;">Fall 2022</span> 
 <span style="float: left;">DSC 180A - Data Science Senior Capstone Project</span>
 <div style="clear:both;"></div>
@@ -29,12 +29,9 @@
 <span style="float: left;">DSC 102 - Systems for Scalable Analytics</span>
 <div style="clear:both;"></div>
 </div>
-
-[//]: # (<br/>)
-
-[//]: # (<div><hr style="width:15%; margin-left: auto;margin-right: auto"></div>)
-### IIITH
-<div>
+<br/>
+**IIITH**
+<div style="margin-top: -1%">
 <span style="float: right;">Spring 2018</span> 
 <span style="float: left;">ICS 251 - Computer Networks</span>
 <div style="clear:both;"></div>
