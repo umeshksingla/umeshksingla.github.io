@@ -4,7 +4,10 @@ Before UCSD, I spent two wonderful years at [Joveo](https://www.joveo.com/), a p
 <br/>
 During my undergrad, I interned with the Data Intelligence division at Samsung Research Institute in the summer of 2017.
 
-I was also a Google Summer of Code student with the open-source organization MacPorts during my undergrad and later served as a mentor.
+{: style="text-align: justify" }
+<img src="/images/macports-gsoc.png" alt="pretty picture" width="25%" height="2%" style="padding-left: 1%; float: right;">
+
+I was also a Google Summer of Code student with the open-source organization [MacPorts](https://www.macports.org/) during my undergrad and later served as a mentor.
 
 [//]: # (Engineering)
 [//]: # (-----------)
