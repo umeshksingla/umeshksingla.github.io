@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I joined UC San Diego in 2020 as an MS student in Computer Science. I am pursuing my thesis in the Neural Computation and Reinforcement Lab advised by [Marcelo Mattar](https://mattarlab.ucsd.edu). The goal of my research is to develop computational methods to understand how animals explore their environment and plan their actions.
+I am a second-year MS student in Computer Science working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural Computation and Reinforcement Learning Lab at UC San Diego. The goal of my research is to develop computational methods to understand how animals explore their environment and plan their actions. I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to help understand animal decision-making behavior and neural activity from various experiments using Bayesian inference tools.
 
-I am interested in interdisciplinary research problems spanning computer science and the natural world (ecology, animal behavior, climate, agriculture, and such). I am <u>currently looking for research assistant or data scientist positions</u> in academia or industry.
+I am interested in interdisciplinary research problems spanning computer science and the natural world (ecology, animal behavior, climate, agriculture, and such). I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
 
 I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science.
 
