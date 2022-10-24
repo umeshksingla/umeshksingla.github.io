@@ -8,18 +8,21 @@ main:
 
 #  - title: "Teaching"
 #    url: /teaching/
-    
-  - title: "Book Shelf"
-    url: /bookshelf/
-
-  - title: "Blog"
-    url: /blog/
-
-  - title: "Past"
-    url: /past/
 
   - title: "CV"
     url: /cv/
+
+#  - title: "Projects"
+#    url: /projects/
+
+#  - title: "Book Shelf"
+#    url: /bookshelf/
+
+#  - title: "Blog"
+#    url: /blog/
+
+#  - title: "Past"
+#    url: /past/
     
 #  - title: "Guide"
 #    url: /markdown/
