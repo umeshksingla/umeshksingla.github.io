@@ -1,4 +1,4 @@
-Before UCSD, I spent two wonderful years at [Joveo](https://www.joveo.com/), a programmatic advertising platform for the recruitment industry, as a machine learning engineer. I designed and developed data pipelines, set up monitoring systems to increase system observability, and collaborated with the data science team on various ML projects.
+Before UCSD, I spent two wonderful years at [Joveo](https://www.joveo.com/), an early-stage programmatic advertising startup in the recruitment space, as a machine learning engineer. I designed and developed data pipelines, set up monitoring systems to increase system observability, and collaborated with the data science team on various ML projects.
 <br/>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
