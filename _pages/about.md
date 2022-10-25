@@ -38,7 +38,7 @@ For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://
 <br/>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
-During my **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the Cognitive Science department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any addiction-related alterations. Work done as part of this program:
+During my **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the Cognitive Science department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:
 
 {% include_relative past.md %}
 
