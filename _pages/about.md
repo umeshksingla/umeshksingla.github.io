@@ -20,8 +20,11 @@ Aside from research, I like to go to the beach, to the gym, listen to music, or 
 
 [//]: # (Check out my [Bookshelf]&#40;bookshelf.md&#41; to know more.)
 
-[curriculum vitae ](cv)
+[curriculum vitae](/files/UmeshSinglaCV.pdf)
 
+[//]: # (INTERESTS:)
+
+[//]: # (**<u>Computational Ethology</u>** **<u>Ecology</u>** **<u>Machine Learning/RL</u>** **<u>Neuroscience</u>** **<u>Naturalistic Behavior</u>** **<u>Cognitive Science</u>**)
 
 [//]: # (Research)
 [//]: # (I am interested in interdisciplinary research problems spanning computer science and naturalistic world &#40;particularly ecology, ethology, and earth sciences&#41;. I like to use a combination of experimental, observational and computational approaches to understand and decipher hidden structure in the natural world.)
