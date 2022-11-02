@@ -6,14 +6,14 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-#  - title: "Teaching"
-#    url: /teaching/
-
   - title: "CV"
     url: /files/UmeshSinglaCV.pdf
 
   - title: "Projects"
     url: /projects/
+
+  - title: "Teaching"
+    url: /ta/
 
 #  - title: "Book Shelf"
 #    url: /bookshelf/

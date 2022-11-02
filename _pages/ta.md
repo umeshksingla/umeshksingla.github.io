@@ -1,4 +1,17 @@
+---
+layout: archive
+title: ""
+permalink: /ta/
+author_profile: true
+redirect_from:
+  - /teaching
+---
+
+{% include base_path %}
+
 **UCSD**
+
+_Graduate Teaching Assistant for:_
 <div style="margin-top: -1%">
 <span style="float: right;">Fall 2022</span> 
 <span style="float: left;">DSC 180A - Data Science Senior Capstone Project</span>
@@ -31,6 +44,8 @@
 </div>
 <br/>
 **IIITH**
+
+_Undergraduate Teaching Assistant for:_
 <div style="margin-top: -1%">
 <span style="float: right;">Spring 2018</span> 
 <span style="float: left;">ICS 251 - Computer Networks</span>
