@@ -32,24 +32,26 @@ Aside from research, I like to go to the beach, to the gym, listen to music, or 
 Research
 --------
 
+**Exploration in reward-free environments** 
 {: style="text-align: justify" }
 <img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
 
-For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals.
+For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a binary-tree maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We are investigating how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data, and fitting and comparing computational models.
+
+**Bayesian models of rodent behavior**
+
+{: style="text-align: justify" }
+<img src="/images/rldiscountdf_plot_params.png" alt="pretty picture" width="35%" style="padding-right: 1%; float: left;">
+I worked on building Bayesian models of rodent behavior from 2AFC, temporal discounting and probabilistic reversal learning task experiments using Stan. We analyzed model-based and model-free learning components in the choice behavior and studied the incremental learning over trials. I am currently looking into LFP data from the same tasks. This work is being done in collaboration with other labs at UCSD.
 <br/>
 <br/>
 <br/>
+<div style="margin-top: 2%"></div>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
-During my **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the Cognitive Science department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:
+<span style="font-size: 80%">During my junior and senior year of **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the CogSci department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:</span>
 
 {% include_relative past.md %}
-
-
-Teaching Assistant
-------------------
-{% include_relative ta.md %}
-
 
 Industry
 --------
