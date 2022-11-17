@@ -14,7 +14,7 @@ redirect_from:
 _Graduate Teaching Assistant for:_
 <div style="margin-top: -1%">
 <span style="float: right;">Fall 2022</span> 
-<span style="float: left;">DSC 180A - Data Science Senior Capstone Project</span>
+<span style="float: left;">DSC 180A - Data Science Senior Capstone</span>
 <div style="clear:both;"></div>
 </div>
 <div>
