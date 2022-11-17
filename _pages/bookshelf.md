@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-These are some resources that I have greatly enjoyed reading and find myself coming back to them often. The list contains books, research papers, review articles, lessons on academic life, courses, or talks that have helped me better understand my interests, my position in the field, and how I can contribute. My idea is to turn it into a sort of bookshelf - rich with pieces from science, art, or other people's experiences. I'll keep a separate [blog](../blog) for my own thoughts or work and avoid polluting this space.
+These are some resources that I have greatly enjoyed reading and have helped me better understand my interests, my position in the field, and how I can contribute. The list contains books, research papers, review articles, lessons on academic life, courses, or talks. My idea is to turn it into a sort of bookshelf - rich with pieces from science, art, or other people's experiences. I'll keep a separate [blog](../blog) for sharing my thoughts or my own work and avoid polluting this space.
 
 I hope you find them as useful as I have! Feel free to email me if you have suggestions to organize this page better or if you find a broken link.
 

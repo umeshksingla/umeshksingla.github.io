@@ -12,13 +12,13 @@ redirect_from:
 I am a second-year MS student in Computer Science working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural Computation and Reinforcement Learning Lab at UC San Diego. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
 
 {: style="text-align: justify" }  
-I am interested in learning about adaptation and generalization in animal behavior and the underlying neural mechanisms. I am looking to study the topics of exploration, sequential decision-making, and naturalistic behavior, and build precise models of animal behavior and cognitive abilities. Specifically, I am interested in building agents that can reason at multiple time scales. I would be interested in developing projects around the idea of temporal abstraction from RL.
+I am interested in understanding how animals adapt and generalize across experiences. I am looking to study the topics of exploration, sequential decision-making, and naturalistic behavior, and build precise models of animal behavior and cognitive abilities. Specifically, I am interested in structured representations and reasoning at multiple time scales.
 
 {: style="text-align: justify" }  
 I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to help understand animal choice behavior and neural activity from various experiments using Bayesian inference tools. 
 
 {: style="text-align: justify" }  
- I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
+I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
 
 {: style="text-align: justify" }  
 Aside from research, I like to go to the beach, to the gym, explore the city, listen to music, or bake in my free time.
