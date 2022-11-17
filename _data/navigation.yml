@@ -15,8 +15,8 @@ main:
   - title: "Teaching"
     url: /ta/
 
-#  - title: "Book Shelf"
-#    url: /bookshelf/
+  - title: "Bookshelf"
+    url: /bookshelf/
 
 #  - title: "Blog"
 #    url: /blog/
