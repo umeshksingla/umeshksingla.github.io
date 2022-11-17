@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Bookshelf"
 permalink: /bookshelf/
 author_profile: true
@@ -117,3 +117,4 @@ This and the chapters before it and after it, honestly the whole book is damn go
 [//]: # (photos)
 
 
+[//]: # (<img src="/images/IMG_20201228_125037.jpg" alt="pretty picture" style="padding-top: 5%;">)

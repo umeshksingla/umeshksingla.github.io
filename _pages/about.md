@@ -8,14 +8,19 @@ redirect_from:
   - /about.html
 ---
 
+{: style="text-align: justify" }  
 I am a second-year MS student in Computer Science working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural Computation and Reinforcement Learning Lab at UC San Diego. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
 
+{: style="text-align: justify" }  
 I am interested in learning about adaptation and generalization in animal behavior and the underlying neural mechanisms. I am looking to study the topics of exploration, sequential decision-making, and naturalistic behavior, and build precise models of animal behavior and cognitive abilities. Specifically, I am interested in building agents that can reason at multiple time scales. I would be interested in developing projects around the idea of temporal abstraction from RL.
 
+{: style="text-align: justify" }  
 I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to help understand animal choice behavior and neural activity from various experiments using Bayesian inference tools. 
 
+{: style="text-align: justify" }  
  I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
 
+{: style="text-align: justify" }  
 Aside from research, I like to go to the beach, to the gym, explore the city, listen to music, or bake in my free time.
 
 [//]: # (Check out my [Bookshelf]&#40;bookshelf.md&#41; to know more.)
@@ -35,9 +40,8 @@ Research
 **Exploration in complex naturalistic behavior** 
 {: style="text-align: justify" }
 <img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
-
-For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a binary-tree maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We are investigating how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data, and fitting and comparing computational models.
-
+For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a binary-tree maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We are investigating how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data, and fitting and comparing computational models.  
+{: style="text-align: justify" }  
 While trying to explain freely-navigating mice in a complex binary tree maze, we found connections in ecology and the temporal abstraction provided by options in RL literature. We are now studying if the same holds when we introduce a simple task for the mice or reward in a corner.
 
 **Bayesian models of rodent behavior**
@@ -54,8 +58,10 @@ I worked on building Bayesian models of rodent behavior from 2AFC, temporal disc
 
 {% include_relative past.md %}
 
-Visit [Projects](projects) for some of my academic projects at UCSD and IIITH.
+Visit [Projects](projects) for academic coursework.
 
 Industry
 --------
 {% include_relative industry.md %}
+
+<img src="/images/IMG_20201228_125037.jpg" alt="pretty picture" style="padding-top: 5%;">
