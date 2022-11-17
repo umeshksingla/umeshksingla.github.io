@@ -8,11 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year MS student in Computer Science working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural Computation and Reinforcement Learning Lab at UC San Diego. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science.
+I am a second-year MS student in Computer Science working with [Marcelo Mattar](https://mattarlab.ucsd.edu) in the Neural Computation and Reinforcement Learning Lab at UC San Diego. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
 
-The goal of my current research is to develop computational methods to understand how animals explore their environment and plan their actions. During my time at Mattar Lab, I have found myself interested in learning about various neural mechanisms, particularly in the context of day-to-day behavior we exhibit (such as implicit memory, few-shot learning, uncertainty in decisions, and social influences). I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to help understand animal decision-making behavior and neural activity from various experiments using Bayesian inference tools.
+I am interested in learning about adaptation and generalization in animal behavior and the underlying neural mechanisms. I am looking to study the topics of exploration, sequential decision-making, and naturalistic behavior, and build precise models of animal behavior and cognitive abilities. Specifically, I am interested in building agents that can reason at multiple time scales. I would be interested in developing projects around the idea of temporal abstraction from RL.
 
-I am interested in interdisciplinary research problems spanning computer science and the natural world (ecology, animal behavior, climate, agriculture, and such). I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
+I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to help understand animal choice behavior and neural activity from various experiments using Bayesian inference tools. 
+
+ I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology.
 
 Aside from research, I like to go to the beach, to the gym, explore the city, listen to music, or bake in my free time.
 
@@ -30,11 +32,13 @@ Aside from research, I like to go to the beach, to the gym, explore the city, li
 Research
 --------
 
-**Exploration in reward-free environments** 
+**Exploration in complex naturalistic behavior** 
 {: style="text-align: justify" }
 <img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
 
 For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a binary-tree maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We are investigating how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data, and fitting and comparing computational models.
+
+While trying to explain freely-navigating mice in a complex binary tree maze, we found connections in ecology and the temporal abstraction provided by options in RL literature. We are now studying if the same holds when we introduce a simple task for the mice or reward in a corner.
 
 **Bayesian models of rodent behavior**
 
