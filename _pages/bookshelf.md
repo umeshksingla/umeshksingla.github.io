@@ -14,30 +14,33 @@ I hope you find them as useful as I have! Feel free to email me if you have sugg
 ## Science
 
 ### Papers
+**[Mice alternate between discrete strategies during perceptual decision-making](https://www.nature.com/articles/s41593-021-01007-z)**  
+**Zoe C. Ashwood et al. (Nature Neuroscience, 2022)**  
+Check out the associated [content](https://www.nature.com/articles/s41593-021-01008-y) as well.
+
 **[Unsupervised identification of the internal states that shape natural behavior](https://www.nature.com/articles/s41593-019-0533-x)**  
 **Adam J. Calhoun et al. (Nature Neuroscience, 2019)**  
 A great way to digest this paper and understand the implications of this particular work as well as in general progress on automating animal behavior is this article by Quanta Magazine, [To Decode the Brain, Scientists Automate the Study of Behavior](https://www.quantamagazine.org/to-decode-the-brain-scientists-automate-the-study-of-behavior-20191210/) from 2019.
+
+**[Characterizing a psychiatric symptom dimension related to deficits in goal-directed control](https://elifesciences.org/articles/11305)**  
+**Claire Gillan et al. (eLife 2016)**
 
 **[Dynamic sensory cues shape song structure in Drosophila](https://www.nature.com/articles/nature13131)**  
 **Philip Coen et al. (Nature 2014)**  
 Check out the accompanying [article](https://www.nature.com/articles/nature13208) if you don't want to get too much into the technical details.
 
-**[Mice alternate between discrete strategies during perceptual decision-making](https://www.nature.com/articles/s41593-021-01007-z)**  
-**Zoe C. Ashwood et al. (Nature Neuroscience, 2022)**  
-Again, check out the associated [content](https://www.nature.com/articles/s41593-021-01008-y).
-
-**[Characterizing a psychiatric symptom dimension related to deficits in goal-directed control](https://elifesciences.org/articles/11305)**  
-**Claire Gillan et al. (eLife 2016)**
+**[The discovery of structural form](https://www.pnas.org/doi/10.1073/pnas.0802631105)**  
+**Charles Kemp and Joshua Tenenbaum (PNAS, 2008)**  
+On the ability of humans to construct representations of their environment using only a few observations, transfer those learnings to different environments and leverage them to control their behavior. Follow up with the [TEM](https://doi.org/10.1016/j.cell.2020.10.024) paper.
 
 **[Lévy flight random searches in biological phenomena](https://www.sciencedirect.com/science/article/pii/S0378437102011573)**  
 **G.M Viswanathan et al. (Physica A, 2002)**  
 This paper touches upon advantages of Levy walks over brownian motion for random searches and different _kinds_ of Levy walks that originate in the wild depending on how sparse or how mobile the target is. Check out the article [Random Search Wired Into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/) by Quanta Magazine from 2020 that summarizes the similar research done across a variety of species since 2002 in an easy-to-understand manner.
 
 [//]: # ( TODO: temporal abstraction)
-
-**[The discovery of structural form](https://www.pnas.org/doi/10.1073/pnas.0802631105)**  
-**Charles Kemp and Joshua Tenenbaum (PNAS, 2008)**  
-On the ability of humans to construct representations of their environment using only a few observations, transfer those learnings to different environments and leverage them to control their behavior. Follow up with the [TEM](https://doi.org/10.1016/j.cell.2020.10.024) paper.
+### Tutorials
+**[Introduction to Decision Making models](https://www.youtube.com/watch?v=qvLpFnlm39M)**  
+**Paul Cisek (MAIN 2020)**
 
 ### Reviews
 **[The what, how, and why of naturalistic behavior](https://www.sciencedirect.com/science/article/pii/S0959438822000435)**  
@@ -45,7 +48,7 @@ On the ability of humans to construct representations of their environment using
 
 **[Resynthesizing behavior through phylogenetic refinement](https://link.springer.com/article/10.3758/s13414-019-01760-1)**  
 **Paul Cisek (Attention, Perception, & Psychophysics, 2019)**  
-A simpler title would be "Neuroscience needs evolution" but that's actually another [paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0518). In my opinion, the best way to enjoy this paper is to skip the paper but watch this [debate](https://www.youtube.com/watch?v=Sx-Hb_Ljx3o) on the topic instead hosted by Learning Salon.
+A simpler title would be "Neuroscience needs evolution" but that's actually another [paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0518). I found the best way to enjoy this paper was to skip the paper and watch this [debate](https://www.youtube.com/watch?v=Sx-Hb_Ljx3o) instead hosted by Learning Salon.
 
 ### Meta Science
 **[How do we search for discovery?](https://willdabney.com/post/flight_and_ai/)**  
