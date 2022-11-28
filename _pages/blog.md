@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-UNDER DEVELOPMENT
+Find random engineering musings from my previous life on [blogspot](https://umeshsingla.blogspot.com/).
 
-[Go back](../about)
+<u>Otherwise, largely under construction.</u>

@@ -18,8 +18,8 @@ main:
   - title: "Bookshelf"
     url: /bookshelf/
 
-#  - title: "Blog"
-#    url: /blog/
+  - title: "Blog"
+    url: /blog/
 
 #  - title: "Past"
 #    url: /past/
