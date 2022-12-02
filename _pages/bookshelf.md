@@ -43,6 +43,11 @@ This paper touches upon advantages of Levy walks over brownian motion for random
 **Paul Cisek (MAIN 2020)**
 
 ### Reviews
+
+**[The challenges of lifelong learning in biological and artificial systems](https://doi.org/10.1016/j.tics.2022.09.022)**  
+**Sashank Pisupati and Yael Niv (Trends in Cognitive Sciences, 2022)**  
+Describes very neatly the problem of continual learning and the framework of contextual or latent-causes proposed to solve it giving a new shape to the problem of learning compared to previous approaches that track a fixed set of parameters. Latent-causes framework is motivated to capture the basis of inductive biases. Further, it talks about few behavioral and neural studies using the framework, and its interesting applications in computational psychiatry.
+
 **[The what, how, and why of naturalistic behavior](https://www.sciencedirect.com/science/article/pii/S0959438822000435)**  
 **Ann Kennedy (Current Opinion in Neurobiology, 2022)**
 
