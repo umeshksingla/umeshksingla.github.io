@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }  
-I work at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) with [Mala Murthy](https://murthylab.princeton.edu/) and [Jonathan Pillow](https://pillowlab.princeton.edu/) as a research specialist with a focus on computational-neuro-ethology.
+I work at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) with [Mala Murthy](https://murthylab.princeton.edu/) and [Jonathan Pillow](https://pillowlab.princeton.edu/) as a research associate with a focus on computational-neuro-ethology.
 
 {: style="text-align: justify" } 
 I did my MS in Computer Science at UC San Diego where I worked with [Dr Marcelo Mattar](https://mattarlab.ucsd.edu) (now NYU). I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
