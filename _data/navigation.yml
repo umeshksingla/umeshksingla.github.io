@@ -9,8 +9,8 @@ main:
   - title: "CV"
     url: /files/UmeshSinglaCV.pdf
 
-  - title: "Projects"
-    url: /projects/
+#   - title: "Projects"
+#     url: /projects/
 
   - title: "Teaching"
     url: /ta/
