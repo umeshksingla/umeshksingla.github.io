@@ -6,8 +6,8 @@ main:
 #  - title: "Talks"
 #    url: /talks/
 
-  - title: "CV"
-    url: /files/UmeshSinglaCV.pdf
+#   - title: "CV"
+#     url: /files/UmeshSinglaCV.pdf
 
 #   - title: "Projects"
 #     url: /projects/
@@ -15,11 +15,11 @@ main:
   - title: "Teaching"
     url: /ta/
 
-  - title: "Bookshelf"
-    url: /bookshelf/
+#   - title: "Bookshelf"
+#     url: /bookshelf/
 
-  - title: "Blog"
-    url: /blog/
+#   - title: "Blog"
+#     url: /blog/
 
 #  - title: "Past"
 #    url: /past/
