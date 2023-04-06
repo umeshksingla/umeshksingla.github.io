@@ -12,7 +12,7 @@ redirect_from:
 I work at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) with [Mala Murthy](https://murthylab.princeton.edu/) and [Jonathan Pillow](https://pillowlab.princeton.edu/) as a research specialist with a focus on computational ethology and cognitive science.
 
 {: style="text-align: justify" } 
-I did my MS in Computer Science at UC San Diego where I worked with [Dr Marcelo Mattar](https://mattarlab.ucsd.edu) (now NYU) at Neural Computation and Reinforcement Learning lab. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
+I did my MS in Computer Science at UC San Diego where I worked with [Marcelo Mattar](https://mattarlab.ucsd.edu) (now NYU) at Neural Computation and Reinforcement Learning lab. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
 
 {: style="text-align: justify" }  
 My main interest is in deciphering why animals or humans behave the way they do. I like to study naturalistic behavior at multiple temporal scales. I am interested in the physics and the biology behind the structure of the observed behavior, and if or how these findings can inform machine learning or robotics. I like to derive from and draw connections across a range of disciplines including ecology, evolution, cognitive science, and social sciences.
