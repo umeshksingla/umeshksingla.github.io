@@ -24,7 +24,7 @@ I also collaborate with [NEAT Labs](https://neatlabs.ucsd.edu/index.html) to hel
 I am <u>currently looking for positions in academia or industry</u> that would allow me to continue my research in machine learning and cognitive science, with a focus on computational neuroscience or ethology. -->
 
 {: style="text-align: justify" }  
-But most of the time, I like to spend time at the beach, at the gym, or exploring the city.
+But most of the time, I like to spend time at the beach, at the gym, watching cinema or exploring the city.
 
 [//]: # (Check out my [Bookshelf]&#40;bookshelf.md&#41; to know more.)
 
@@ -43,21 +43,21 @@ Research
 **Exploration in complex naturalistic behavior** 
 {: style="text-align: justify" }
 <img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
-For my **masters** thesis, I am working with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and trying to explain structure exhibited by animals while navigating a binary-tree maze. I am particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We are investigating how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data, and fitting and comparing computational models.
+For my **masters** thesis, I worked with Professor [Marcelo Mattar](https://mattarlab.ucsd.edu) to study exploration in complex environments and explain the structure exhibited by animals while navigating a binary-tree maze. I was particularly interested in how reinforcement learning can be used to model exploration and planning in animals. We investigated how animals deviate from optimality in such decisions, by analyzing naturalistic behavior data and fitting and comparing computational models.
 {: style="text-align: justify" }  
-While trying to explain freely-navigating mice in a complex binary tree maze, we found connections in ecology and the temporal abstraction provided by options in RL literature. We are now studying if the same holds when we introduce a simple task for the mice or reward in a corner.
+While trying to explain freely navigating mice in a complex binary tree maze, we found connections in ecology and the temporal abstraction provided by options in RL literature. We are currently designing a behavior experiment to see if the same holds in humans as well.
 
 **Bayesian models of rodent behavior**
 
 {: style="text-align: justify" }
 <img src="/images/rldiscountdf_plot_params.png" alt="pretty picture" width="35%" style="padding-right: 1%; float: left;">
-I worked on building Bayesian models of rodent behavior from 2AFC, temporal discounting and probabilistic reversal learning task experiments using Stan. We analyzed model-based and model-free learning components in the choice behavior and studied the incremental learning over trials. I am currently looking into LFP data from the same tasks.
+I worked on building Bayesian models of rodent behavior from 2AFC, temporal discounting, and probabilistic reversal learning task experiments using Stan. We analyzed model-based and model-free learning components in the choice behavior and studied incremental learning over trials.
 <br/>
 <br/>
 <div style="margin-top: 2%"></div>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
-<span style="font-size: 90%">During my junior and senior year of **undergrad** at IIITH, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the CogSci department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:</span>
+<span style="font-size: 90%">During my junior and senior year of **undergrad** at IIIT H, I worked with Professors [Bapi S Raju](https://sites.google.com/view/bccl-iiith/home) and [Vinoo Alluri](https://www.vinooalluri.com/) in the CogSci department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:</span>
 
 {% include_relative past.md %}
 
