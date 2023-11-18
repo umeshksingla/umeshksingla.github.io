@@ -7,16 +7,21 @@ author_profile: true
 
 {% include base_path %}
 
-These are some resources that I have greatly enjoyed reading and have helped me better understand my interests, my position in the field, and how I can contribute. The list contains books, research papers, review articles, lessons on academic life, courses, or talks. My idea is to turn it into a sort of bookshelf - rich with pieces from science, art, or other people's experiences. I'll keep a separate [blog](../blog) for sharing my thoughts or my own work and avoid polluting this space.
+These are some resources that I have greatly enjoyed reading and have helped me better understand my interests, my position in the field, and how I can contribute. The list contains books, research papers, review articles, lessons on academic life, courses, or talks. My idea is to turn it into a sort of bookshelf - rich with pieces from science, art, or people's experiences. 
 
-I hope you find them as useful as I have! Feel free to email me if you have suggestions to organize this page better or if you find a broken link.
+[//]: # (I'll keep a separate [blog]&#40;../blog&#41; for sharing my thoughts or my own work and avoid polluting this space.)
+
+[//]: # (I hope you find them as useful as I have! Feel free to email me if you have suggestions to organize this page better or if you find a broken link.)
 
 ## Science
 
 ### Papers
-**[Mice alternate between discrete strategies during perceptual decision-making](https://www.nature.com/articles/s41593-021-01007-z)**  
-**Zoe C. Ashwood et al. (Nature Neuroscience, 2022)**  
-Check out the associated [content](https://www.nature.com/articles/s41593-021-01008-y) as well.
+
+[//]: # (**[Mice alternate between discrete strategies during perceptual decision-making]&#40;https://www.nature.com/articles/s41593-021-01007-z&#41;**  )
+
+[//]: # (**Zoe C. Ashwood et al. &#40;Nature Neuroscience, 2022&#41;**  )
+
+[//]: # (Check out the associated [content]&#40;https://www.nature.com/articles/s41593-021-01008-y&#41; as well.)
 
 **[Unsupervised identification of the internal states that shape natural behavior](https://www.nature.com/articles/s41593-019-0533-x)**  
 **Adam J. Calhoun et al. (Nature Neuroscience, 2019)**  
@@ -38,11 +43,11 @@ On the ability of humans to construct representations of their environment using
 This paper touches upon advantages of Levy walks over brownian motion for random searches and different _kinds_ of Levy walks that originate in the wild depending on how sparse or how mobile the target is. Check out the article [Random Search Wired Into Animals May Help Them Hunt](https://www.quantamagazine.org/random-search-wired-into-animals-may-help-them-hunt-20200611/) by Quanta Magazine from 2020 that summarizes the similar research done across a variety of species since 2002 in an easy-to-understand manner.
 
 [//]: # ( TODO: temporal abstraction)
-### Tutorials
+
+### Tutorials and Reviews
+
 **[Introduction to Decision Making models](https://www.youtube.com/watch?v=qvLpFnlm39M)**  
 **Paul Cisek (MAIN 2020)**
-
-### Reviews
 
 **[The challenges of lifelong learning in biological and artificial systems](https://doi.org/10.1016/j.tics.2022.09.022)**  
 **Sashank Pisupati and Yael Niv (Trends in Cognitive Sciences, 2022)**  
@@ -55,7 +60,7 @@ Describes very neatly the problem of continual learning and the framework of con
 **Paul Cisek (Attention, Perception, & Psychophysics, 2019)**  
 A simpler title would be "Neuroscience needs evolution" but that's actually another [paper](https://royalsocietypublishing.org/doi/10.1098/rstb.2020.0518). I found the best way to enjoy this paper was to skip the paper and watch this [debate](https://www.youtube.com/watch?v=Sx-Hb_Ljx3o) instead hosted by Learning Salon.
 
-### Meta Science
+[//]: # (### Meta Science)
 **[How do we search for discovery?](https://willdabney.com/post/flight_and_ai/)**  
 **Will Dabney (2020)**  
 
@@ -63,9 +68,11 @@ A simpler title would be "Neuroscience needs evolution" but that's actually anot
 
 ## Academic Life
 
-![](https://img.icons8.com/ios/20/null/twitter--v1.png) **[Have a notebook](https://twitter.com/neuranna/status/1313301099118563328)**  
-**Anna Ivanova, 2020**  
-I just can't recommend this enough, and [Notion](https://www.notion.so).
+[//]: # (![]&#40;https://img.icons8.com/ios/20/null/twitter--v1.png&#41; **[Have a notebook]&#40;https://twitter.com/neuranna/status/1313301099118563328&#41;**  )
+
+[//]: # (**Anna Ivanova, 2020**  )
+
+[//]: # (I just can't recommend this enough, and [Notion]&#40;https://www.notion.so&#41;.)
 
 **[My Ph.D. advisers expected weekly progress reports. I’m glad they did](https://www.science.org/content/article/my-ph-d-advisers-expected-weekly-progress-reports-i-m-glad-they-did)**  
 **Pijar Religia (Science 2021)**
@@ -88,7 +95,8 @@ And a great [![](https://img.icons8.com/ios/20/null/twitter--v1.png) thread](htt
 
 **[Aspects of Scientific Life and Manners](https://www.goodreads.com/en/book/show/905743.Advice_To_A_Young_Scientist)**  
 **Peter Medawar (1979)**  
-It's actually one of the chapters in the linked book. I resonated with a particular section of this chapter _Is Science Undervalued?_ very well. I think the title does not fit the content the best but if you find yourselves questioning if doing science is (or is not) the only thing worth living for, you might find an answer here.
+
+[//]: # (It's actually one of the chapters in the linked book. I resonated with a particular section of this chapter _Is Science Undervalued?_ very well. I think the title does not justify the content the best but if you find yourselves questioning if doing science is &#40;or is not&#41; the only thing worth living for, you might find an answer here.)
 
 ## Life
 
@@ -102,7 +110,8 @@ It's actually one of the chapters in the linked book. I resonated with a particu
 ## Engineering
 **[Embracing Risk](https://sre.google/sre-book/embracing-risk/)**  
 **Marc Alvidrez (Google SRE Book, 2015)**  
-This and the chapters before it and after it, honestly the whole book is damn good if you care about understanding your systems better.
+
+[//]: # (This and the chapters before and after, honestly the whole book is damn good if you care about understanding your systems better.)
 
 
 [//]: # (If you are looking to get started in cognitive science)
