@@ -12,8 +12,8 @@ main:
 #   - title: "Projects"
 #     url: /projects/
 
-  - title: "Teaching"
-    url: /ta/
+#  - title: "Teaching"
+#    url: /ta/s
 
   - title: "Bookshelf"
     url: /bookshelf/

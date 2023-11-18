@@ -46,9 +46,12 @@ For my **masters** thesis, I worked with [Marcelo Mattar](https://www.mattarlab.
 We modeled choice data from various rodent behavior experiments: 2AFC, delay discounting, and probabilistic reversal learning, in Stan using the frameworks of Reinforcement Learning and Hierarchical Bayes. We analyzed model-based and model-free learning components in their choice behavior and studied incremental learning over trials.
 <br/>
 <br/>
-<div style="margin-top: 2%"></div>
-<div><hr style="width:20%; margin: auto"></div>
-<br/>
+
+[//]: # (<div style="margin-top: 2%"></div>)
+
+[//]: # (<div><hr style="width:20%; margin: auto"></div>)
+
+[//]: # (<br/>)
 
 <!-- Visit [Projects](projects) for academic coursework. -->
 
