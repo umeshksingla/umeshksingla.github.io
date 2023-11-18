@@ -42,18 +42,13 @@ For my **masters** thesis, I worked with [Marcelo Mattar](https://www.mattarlab.
 **Bayesian models of rodent behavior**
 
 {: style="text-align: justify" }
-<img src="/images/rldiscountdf_plot_params.png" alt="pretty picture" width="35%" style="padding-right: 1%; float: left;">
+<img src="/images/rldiscountdf_plot_params.png" alt="pretty picture" width="35%" style="padding-right: 1%; float: right;">
 We modeled choice data from various rodent behavior experiments: 2AFC, delay discounting, and probabilistic reversal learning, in Stan using the frameworks of Reinforcement Learning and Hierarchical Bayes. We analyzed model-based and model-free learning components in their choice behavior and studied incremental learning over trials.
 <br/>
 <br/>
 <div style="margin-top: 2%"></div>
 <div><hr style="width:20%; margin: auto"></div>
 <br/>
-
-
-[//]: # (<span style="font-size: 90%">During my junior and senior year of **undergrad** at IIIT H, I worked with Professors [Bapi S Raju]&#40;https://sites.google.com/view/bccl-iiith/home&#41; and [Vinoo Alluri]&#40;https://www.vinooalluri.com/&#41; in the CogSci department as part of the undergraduate research program. I worked on analyzing structural and functional MRI scans for any substance addiction-related alterations. Work done as part of this program:</span>)
-
-[//]: # ({% include_relative past.md %})
 
 <!-- Visit [Projects](projects) for academic coursework. -->
 
