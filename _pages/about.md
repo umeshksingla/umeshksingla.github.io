@@ -22,7 +22,7 @@ Outside the lab, I like to spend time at the beach, at the gym, watching cinema,
 
 [//]: # (Check out my [Bookshelf]&#40;bookshelf.md&#41; to know more.)
 
-[curriculum vitae](/files/UmeshSinglaCV.pdf)
+[curriculum vitae](/files/UmeshSingla_cv.pdf)
 
 [//]: # (INTERESTS:)
 
