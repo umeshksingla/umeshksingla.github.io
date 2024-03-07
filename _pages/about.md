@@ -20,44 +20,7 @@ My main research interest is being able to describe the behavior of a complex sy
 {: style="text-align: justify" }  
 Outside the lab, I like to spend time at the beach, at the gym, watching cinema, or exploring the city.
 
-[//]: # (Check out my [Bookshelf]&#40;bookshelf.md&#41; to know more.)
-
 [curriculum vitae](/files/UmeshSingla_cv.pdf)
-
-[//]: # (INTERESTS:)
-
-[//]: # (**<u>Computational Ethology</u>** **<u>Ecology</u>** **<u>Machine Learning/RL</u>** **<u>Neuroscience</u>** **<u>Naturalistic Behavior</u>** **<u>Cognitive Science</u>**)
-
-[//]: # (Research)
-[//]: # (I am interested in interdisciplinary research problems spanning computer science and naturalistic world &#40;particularly ecology, ethology, and earth sciences&#41;. I like to use a combination of experimental, observational and computational approaches to understand and decipher hidden structure in the natural world.)
-
-Research
---------
-
-**Exploration in complex naturalistic behavior** 
-{: style="text-align: justify" }
-<img src="/images/woot.jpeg" alt="pretty picture" width="50%" style="padding-left: 1%; float: right;">
-For my **master's** thesis, I worked with [Marcelo Mattar](https://www.mattarlab.com) to study exploration and explain the efficiency and higher-order structure, if any, exhibited by freely navigating animals in a labyrinth. We surveyed existing algorithms in classical and deep reinforcement learning used to model exploration in sequential environments. We found most of the algorithms were not generalizable outside their intended domains, or they performed either very optimally (similar to doing a depth-first search with no resource constraints) or very randomly (similar to wandering around with no memory or planning). However, as we know from various experiments, animals generally lie in between. We looked further and found connections between spatial ecology and temporal abstraction in RL. A simple rule that persists in the same decision for multiple steps was able to capture most of the mice's exploratory behavior and also reduced the average uncertainty in decisions at each turn. We are currently designing a behavior experiment to see if the same holds in humans as well.
-
-**Bayesian models of rodent behavior**
-
-{: style="text-align: justify" }
-<img src="/images/rldiscountdf_plot_params.png" alt="pretty picture" width="35%" style="padding-right: 1%; float: right;">
-We modeled choice data from various rodent behavior experiments: 2AFC, delay discounting, and probabilistic reversal learning, in Stan using the frameworks of Reinforcement Learning and Hierarchical Bayes. We analyzed model-based and model-free learning components in their choice behavior and studied incremental learning over trials.
-<br/>
-<br/>
-
-[//]: # (<div style="margin-top: 2%"></div>)
-
-[//]: # (<div><hr style="width:20%; margin: auto"></div>)
-
-[//]: # (<br/>)
-
-<!-- Visit [Projects](projects) for academic coursework. -->
-
-Industry
---------
-{% include_relative industry.md %}
 
 <img src="/images/IMG_20201228_125037.jpg" alt="bb" style="padding-top: 5%;">
 _Black's Beach, La Jolla, CA (Dec 2020)_
