@@ -12,7 +12,7 @@ redirect_from:
 I work at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) with [Mala Murthy](https://murthylab.princeton.edu/) and [Jonathan Pillow](https://pillowlab.princeton.edu/) as a research specialist where I am studying social interactions in _Drosophila melanogaster_.
 
 {: style="text-align: justify" } 
-I did my MS in Computer Science at UC San Diego, where I worked with [Marcelo Mattar](https://mattarlab.ucsd.edu) (now at NYU) at Neural Computation and Reinforcement Learning lab. I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
+I obtained my MS in Computer Science at UC San Diego, where I was advised by [Marcelo Mattar](https://mattarlab.ucsd.edu) (now at NYU). I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
 
 {: style="text-align: justify" }
 I am interested in deciphering the computational principles underlying various cognitive processes, what causes them to 
