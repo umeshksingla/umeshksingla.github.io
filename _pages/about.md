@@ -9,25 +9,10 @@ redirect_from:
 ---
 
 {: style="text-align: justify" }  
-I work at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) with [Mala Murthy](https://murthylab.princeton.edu/) and [Jonathan Pillow](https://pillowlab.princeton.edu/) as a research assistant where I am studying social interactions in fruit flies.
 
-{: style="text-align: justify" } 
-I obtained my MS in Computer Science at UC San Diego, where I was advised by [Marcelo Mattar](https://mattarlab.com) (now at NYU). I received my BS in Computer Science and Engineering in 2018 from IIIT Hyderabad with a minor in Cognitive Science. 
+I am a PhD student in the Computation and Language lab at UC Berkeley, advised by [Steve Piantadosi](http://colala.berkeley.edu). 
 
-{: style="text-align: justify" }
-I am interested in understanding the neuro-computational principles underlying various cognitive processes, what causes them to deviate, and how those deviations manifest in our daily lives.
-
-I study decision-making in animals and humans in various settings - exploratory, planning, multisensory contexts, or social environments, and across timescales.
-
-For my research, I like to derive from and draw connections across various disciplines, including computer science, neuroscience, ecology, and social sciences.
-
-
-[//]: # (I also find dynamics of large scale systems, such as global economies, ecosystems interactions, urban infrastructure or social networks, fascinating.)
-
-
-
-{: style="text-align: justify" }  
-Outside the lab, I like to spend time at the beach, watching cinema, biking, or exploring the city.
+Previously, I worked at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) as a joint research assistant with [Jonathan Pillow](https://pillowlab.princeton.edu/) and [Mala Murthy](https://murthylab.princeton.edu/) where I studied social interactions in fruit flies. I obtained my MS in Computer Science at UC San Diego, where I was advised by [Marcelo Mattar](https://mattarlab.com) (now at NYU). Long time ago, I received my BS in Computer Science and Engineering from IIIT Hyderabad with a minor in Cognitive Science. 
 
 [curriculum vitae](/files/UmeshSingla_cv.pdf)
 
