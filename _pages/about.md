@@ -12,7 +12,7 @@ redirect_from:
 
 I am a PhD student in the Computation and Language lab at UC Berkeley, advised by [Steve Piantadosi](http://colala.berkeley.edu). 
 
-Previously, I worked at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) as a joint research assistant with [Jonathan Pillow](https://pillowlab.princeton.edu/) and [Mala Murthy](https://murthylab.princeton.edu/) where I studied social interactions in fruit flies. I obtained my MS in Computer Science at UC San Diego, where I was advised by [Marcelo Mattar](https://mattarlab.com) (now at NYU). Long time ago, I received my BS in Computer Science and Engineering from IIIT Hyderabad with a minor in Cognitive Science. 
+Before, I worked at the Princeton Neuroscience Institute as a research assistant in the labs of [Jonathan Pillow](https://pillowlab.princeton.edu/) and [Mala Murthy](https://murthylab.princeton.edu/). I obtained my MS in Computer Science at UC San Diego, where I was advised by [Marcelo Mattar](https://mattarlab.com). Long time ago, I received my BS in Computer Science from IIIT Hyderabad. 
 
 [curriculum vitae](/files/UmeshSingla_cv.pdf)
 
