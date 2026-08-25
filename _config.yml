@@ -86,7 +86,7 @@ author:
   location         : "UC Berkeley"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com/citations?user=MXHzzZwAAAAJ&hl=en"
+  googlescholar    :
   email            : "usingla@berkeley.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -94,22 +94,22 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         : "umeshksingla"
+  facebook         :
   foursquare       :
-  github           : "umeshksingla"
+  github           :
   google_plus      :
   keybase          :
-  instagram        : "usingla._"
+  instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "umeshksingla"
+  linkedin         :
   orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "umeshksingla"
+  twitter          :
   vine             :
   weibo            :
   xing             :
